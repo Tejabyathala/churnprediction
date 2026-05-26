@@ -1,7 +1,7 @@
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+!(images/dashboard.png)
 
 ## 📈 Prediction Result
 
-![Prediction](images/result.png)
+![Prediction](images/Customer Churn Prediction & Retention Analysis _ Gamma - Brave 26-05-2026 11_44_44.png)
